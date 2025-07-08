@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Arithmathics</string>
+    <string name="app_title" translatable="false">Arithmathics</string>
+
+    <!-- Menu Fragment -->
+    <string name="select_difficulty">Select difficulty</string>
+    <string name="easy">Easy</string>
+    <string name="medium">Medium</string>
+    <string name="hard">Hard</string>
+    <string name="custom">Custom</string>
+    <string name="start">Start</string>
+
+    <!-- Menu -->
+    <string name="menu_theme">Theme</string>
+    <string name="menu_language">Language</string>
+    <string name="menu_info">Info</string>
+    <string name="menu_rate">Rate</string>
+
+    <!-- Time mode -->
+    <string name="timer_mode">Time mode:</string>
+    <string-array name="timer_array">
+        <item>Without timer</item>
+        <item>With timer</item>
+    </string-array>
+
+    <!-- Positive answers -->
+    <string name="positive_mode">Answers</string>
+    <string-array name="positive_array">
+        <item>Positives &amp; Negatives</item>
+        <item>Only Positives</item>
+    </string-array>
+
+    <!-- Dialogs -->
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+
+    <!-- Theme Dialog -->
+    <string name="select_theme">Select Theme</string>
+    <string-array name="theme_choice">
+        <item>Light</item>
+        <item>Dark</item>
+        <item>System</item>
+    </string-array>
+
+    <!-- Language Dialog -->
+    <string name="select_language">Select language</string>
+    <string-array name="language_choice">
+        <item>English</item>
+        <item>Georgian</item>
+    </string-array>
+
+    <!-- Welcome -->
+    <string name="english" translatable="false">English</string>
+    <string name="qartuli" translatable="false">ქართული</string>
+    <string name="others_soon">Others soon…</string>
+    <string name="continue_">Continue</string>
+    <string name="language_attention">You can change the language at any time in the menu bar</string>
+
+    <!-- Custom -->
+    <string name="levels">Levels</string>
+    <string name="operations">Operations</string>
+    <string name="num_range">Number range</string>
+    <string name="timer">Timer</string>
+    <string name="timer_attention">*Timer is disabled</string>
+    <string name="decimal_attention">Floating point answers will be rounded to 1 decimal</string>
+    <string name="addition">Addition (+)</string>
+    <string name="subtraction">Subtraction (-)</string>
+    <string name="multiplication">Multiplication (×)</string>
+    <string name="division">Division (÷)</string>
+    <string name="attention_custom">At least 1 operator should be checked</string>
+
+    <!--Game -->
+    <string name="answer">Answer</string>
+    <string name="next">Next</string>
+    <string name="finish">finish</string>
+    <string name="end">End</string>
+
+    <!-- Non translatable -->
+    <string name="question" translatable="false">question</string>
+    <string name="position" translatable="false">position</string>
+    <string name="time_clock" translatable="false">00:00</string>
+
+    <!-- Result -->
+    <string name="correct">Correct</string>
+    <string name="wrong">Wrong</string>
+    <string name="time_spent">Time spent</string>
+
+    <!-- Game History -->
+    <string name="time">Time</string>
+    <string name="difficulty">Difficulty</string>
+    <string name="corrects">Corrects</string>
+
+    <!-- Difficulties -->
+    <string name="beginner">Beginner</string>
+    <string name="expert">Expert</string>
+    <string name="extreme">Extreme</string>
+    <string name="impossible">Impossible</string>
+    <string name="calculator">Calculator</string>
+
+    <!-- Info -->
+    <string name="paragraph_project">About Project</string>
+    <string name="info_project">Arithmathics is an open-source software for mobile devices created by Hexley21 and maintained by Arithmathics\'s community</string>
+    <string name="paragraph_app">About Arithmathics</string>
+    <string name="info_description">Arithmathics is a mobile quiz game with randomly generated mathematical tasks of various difficulty.You can use it to train your arithmetical skills and improve your mental calculation time</string>
+    <string name="visit_github_page">Visit our GitHub page</string>
+    <string name="github_page" translatable="false">github.com/hexley21/ArithMathics</string>
+    <string name="contact_developer">Contact developer</string>
+    <string name="developer" translatable="false">a.kupreishvili.21@gmail.com</string>
+    <string name="privacy_policy" translatable="false">https://sites.google.com/view/hexley21-arithmathics</string>
+    <string name="info_privacy" translatable="false">PRIVACY POLICY</string>
+    <string name="info_credits" translatable="false">CREDITS</string>
+    <string name="info_rights" translatable="false">All Rights Reserved</string>
+
+    <!-- Content Description -->
+    <string name="app_logo">Application logo</string>
+
+    <!-- Credits -->
+    <string-array name="credits_title">
+        <item>ReactiveX - RxJava</item>
+        <item>ReactiveX - RxAndroid</item>
+        <item>Google - Dagger Hilt</item>
+        <item>Android - Room</item>
+        <item>Objecthunter - exp4j</item>
+        <item>Airbnb - Paris</item>
+        <item>TBC Contractica - Font</item>
+        <item>Google Material icons - Icons</item>
+    </string-array>
+    <string-array name="credits_desc">
+        <item>Reactive Extensions for the JVM – a library for composing asynchronous and event-based programs using observable sequences for the Java VM. (APACHE 2.0)</item>
+        <item>RxJava bindings for Android. (APACHE 2.0)</item>
+        <item>A fast dependency injector for Android and Java. (APACHE 2.0)</item>
+        <item>The Room persistence library provides an abstraction layer over SQLite to allow for more robust database access while harnessing the full power of SQLite.</item>
+        <item>A tiny math expression evaluator for the Java programming language. (APACHE 2.0)</item>
+        <item>Define and apply styles to Android views programmatically. (APACHE 2.0)</item>
+        <item>A unique font that made the text even easier to understand and remember.</item>
+        <item>Material Design Icons\' growing icon collection allows designers and developers targeting various platforms. (APACHE 2.0 / UBUNTU FONT LICENSE)</item>
+    </string-array>
+    <string-array name="credits_links">
+        <item>https://github.com/ReactiveX/RxJava</item>
+        <item>https://github.com/ReactiveX/RxAndroid</item>
+        <item>https://github.com/google/dagger</item>
+        <item>https://developer.android.com/jetpack/androidx/releases/room</item>
+        <item>https://github.com/fasseg/exp4j</item>
+        <item>https://github.com/airbnb/paris</item>
+        <item>https://www.facebook.com/tbcinsurance/videos/375586237175889/</item>
+        <item>https://fonts.google.com/icons</item>
+    </string-array>
+
+    <!-- Buttons -->
+    <string name="btn_one" translatable="false">1</string>
+    <string name="btn_two" translatable="false">2</string>
+    <string name="btn_three" translatable="false">3</string>
+    <string name="btn_four" translatable="false">4</string>
+    <string name="btn_five" translatable="false">5</string>
+    <string name="btn_six" translatable="false">6</string>
+    <string name="btn_seven" translatable="false">7</string>
+    <string name="btn_eight" translatable="false">8</string>
+    <string name="btn_nine" translatable="false">9</string>
+    <string name="btn_zero" translatable="false">0</string>
+    <string name="btn_dot" translatable="false">.</string>
+    <string name="btn_negative" translatable="false">-</string>
+
+</resources>
